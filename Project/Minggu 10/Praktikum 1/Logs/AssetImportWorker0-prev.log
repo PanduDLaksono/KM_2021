@@ -1,0 +1,182 @@
+Using pre-set license
+Built from '2020.3/staging' branch; Version is '2020.3.0f1 (c7b5465681fb) revision 13088070'; Using compiler version '192528614'; Build Type 'Release'
+OS: 'Windows 10 Pro; OS build 19042.964; Version 2009; 64bit' Language: 'en' Physical Memory: 8106 MB
+BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 0
+
+ COMMAND LINE ARGUMENTS:
+C:\Program Files\Unity\Hub\Editor\2020.3.0f1\Editor\Unity.exe
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker0
+-projectPath
+E:/Mapel/Polinema/S6/Komputasi Multimedia/Project/Minggu 10/Praktikum 1
+-logFile
+Logs/AssetImportWorker0.log
+-srvPort
+64532
+Successfully changed project path to: E:/Mapel/Polinema/S6/Komputasi Multimedia/Project/Minggu 10/Praktikum 1
+E:/Mapel/Polinema/S6/Komputasi Multimedia/Project/Minggu 10/Praktikum 1
+Using Asset Import Pipeline V2.
+Refreshing native plugins compatible for Editor in 67.93 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 2020.3.0f1 (c7b5465681fb)
+[Subsystems] Discovering subsystems at path C:/Program Files/Unity/Hub/Editor/2020.3.0f1/Editor/Data/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path E:/Mapel/Polinema/S6/Komputasi Multimedia/Project/Minggu 10/Praktikum 1/Assets
+GfxDevice: creating device client; threaded=0
+Direct3D:
+    Version:  Direct3D 11.0 [level 10.1]
+    Renderer: Intel(R) HD Graphics 3000 (ID=0x116)
+    Vendor:   
+    VRAM:     128 MB
+    Driver:   9.17.10.4459
+Initialize mono
+Mono path[0] = 'C:/Program Files/Unity/Hub/Editor/2020.3.0f1/Editor/Data/Managed'
+Mono path[1] = 'C:/Program Files/Unity/Hub/Editor/2020.3.0f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit'
+Mono config path = 'C:/Program Files/Unity/Hub/Editor/2020.3.0f1/Editor/Data/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56952
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2020.3.0f1/Editor/Data/PlaybackEngines/WebGLSupport/UnityEditor.WebGL.Extensions.dll
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2020.3.0f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.005361 seconds.
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 52.25 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  4.823 seconds
+Platform modules already initialized, skipping
+Registering precompiled user dll's ...
+Registered in 0.001492 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.38 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  2.136 seconds
+Platform modules already initialized, skipping
+========================================================================
+Worker process is ready to serve import requests
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.18 seconds
+Refreshing native plugins compatible for Editor in 0.50 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1113 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 56.9 MB.
+System memory in use after: 57.0 MB.
+
+Unloading 10 unused Assets to reduce memory usage. Loaded Objects now: 1555.
+Total: 4.157000 ms (FindLiveObjects: 0.285500 ms CreateObjectMapping: 0.088700 ms MarkObjects: 3.559900 ms  DeleteObjects: 0.219900 ms)
+
+========================================================================
+Received Import Request.
+  path: Assets/Battery_specular.tif
+  artifactKey: Guid(cd6c4df4d6017aa4f86062a5e3d4c226) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Battery_specular.tif using Guid(cd6c4df4d6017aa4f86062a5e3d4c226) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd28d2550680563f6045146f1babc4ecd') in 0.286744 seconds
+  Import took 0.591028 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.062825 seconds.
+  path: Assets/battery_prefab.prefab
+  artifactKey: Guid(59e9fac976c672b459b07dfc2ce80bee) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/battery_prefab.prefab using Guid(59e9fac976c672b459b07dfc2ce80bee) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '78470c7d02ff939f90ecedf77c605fbd') in 1.278421 seconds
+  Import took 1.321284 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000399 seconds.
+  path: Assets/battery.FBX
+  artifactKey: Guid(c244f251c2b19e749a5b40fc0d83293a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/battery.FBX using Guid(c244f251c2b19e749a5b40fc0d83293a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '297369db28da5763cc1d18693cd3b06c') in 1.060806 seconds
+  Import took 1.065240 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000444 seconds.
+  path: Assets/Battery_MAT.mat
+  artifactKey: Guid(333e487ddbd6a744e8b37b6d0e2304ca) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Battery_MAT.mat using Guid(333e487ddbd6a744e8b37b6d0e2304ca) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '62b318b04719a61f7165013761fba07f') in 0.133528 seconds
+  Import took 0.171601 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000467 seconds.
+  path: Assets/Battery_albedo.tif
+  artifactKey: Guid(80ae41e18c1e09d498541bdd5da99c44) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Battery_albedo.tif using Guid(80ae41e18c1e09d498541bdd5da99c44) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '05c805766c29b325951191a2ff3d5f5e') in 0.095709 seconds
+  Import took 0.099855 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000424 seconds.
+  path: Assets/Baterry_normal.jpg
+  artifactKey: Guid(15f32f5481a690340847accde04b2753) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Baterry_normal.jpg using Guid(15f32f5481a690340847accde04b2753) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0fe374bbde140dce57ffd37b6f9b4d25') in 0.052382 seconds
+  Import took 0.058679 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 18.374233 seconds.
+  path: Assets/Materials
+  artifactKey: Guid(478359a882482bc49acda9633c36e8fa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Materials using Guid(478359a882482bc49acda9633c36e8fa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5085077be7889a67e1c1b6854db8044a') in 0.018677 seconds
+  Import took 0.142339 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000475 seconds.
+  path: Assets/Materials/BatteryMaterial.mat
+  artifactKey: Guid(982441d8381a7fe4ca4620de35ee4fb0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Materials/BatteryMaterial.mat using Guid(982441d8381a7fe4ca4620de35ee4fb0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '252a28b578607d6e1ea9c0520aeda359') in 0.038993 seconds
+  Import took 0.176764 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 254.621173 seconds.
+  path: Assets/CustomReflection.jpg
+  artifactKey: Guid(b18c353806a54224ba0a9819c5f0942d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/CustomReflection.jpg using Guid(b18c353806a54224ba0a9819c5f0942d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '47c1beb03d522ef4ee14101328ae6e74') in 0.058293 seconds
+  Import took 0.148477 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 74.937404 seconds.
+  path: Assets/CustomReflection.jpg
+  artifactKey: Guid(b18c353806a54224ba0a9819c5f0942d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/CustomReflection.jpg using Guid(b18c353806a54224ba0a9819c5f0942d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '58b6b2612cc304ee5c316647ed6e59c9') in 0.061493 seconds
+  Import took 0.098605 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.017283 seconds.
+  path: Assets/CustomReflection.jpg
+  artifactKey: Guid(b18c353806a54224ba0a9819c5f0942d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/CustomReflection.jpg using Guid(b18c353806a54224ba0a9819c5f0942d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '58b6b2612cc304ee5c316647ed6e59c9') in 0.062837 seconds
+  Import took 0.070401 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 359.415865 seconds.
+  path: Assets/New Lighting Settings.lighting
+  artifactKey: Guid(c65178ce4703cd74e955b2c79e6c25f8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/New Lighting Settings.lighting using Guid(c65178ce4703cd74e955b2c79e6c25f8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2ca29496b20b9493582b180bd62144d3') in 0.022668 seconds
+  Import took 0.094135 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 350.867378 seconds.
+  path: Assets/Battery_MAT.mat
+  artifactKey: Guid(333e487ddbd6a744e8b37b6d0e2304ca) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Battery_MAT.mat using Guid(333e487ddbd6a744e8b37b6d0e2304ca) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9a72d0566145309cf231fe5428a190bc') in 0.107204 seconds
+  Import took 0.262321 seconds .
+
+AssetImportWorkerClient::OnTransportError - code=2 error=End of file
