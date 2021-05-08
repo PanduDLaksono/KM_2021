@@ -1,0 +1,390 @@
+Using pre-set license
+Built from '2020.3/staging' branch; Version is '2020.3.0f1 (c7b5465681fb) revision 13088070'; Using compiler version '192528614'; Build Type 'Release'
+OS: 'Windows 10 Pro; OS build 19042.964; Version 2009; 64bit' Language: 'en' Physical Memory: 8106 MB
+BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 0
+
+ COMMAND LINE ARGUMENTS:
+C:\Program Files\Unity\Hub\Editor\2020.3.0f1\Editor\Unity.exe
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker0
+-projectPath
+E:/Mapel/Polinema/S6/Komputasi Multimedia/KM_2021/Project/Minggu 12/Praktikum 4
+-logFile
+Logs/AssetImportWorker0.log
+-srvPort
+49283
+Successfully changed project path to: E:/Mapel/Polinema/S6/Komputasi Multimedia/KM_2021/Project/Minggu 12/Praktikum 4
+E:/Mapel/Polinema/S6/Komputasi Multimedia/KM_2021/Project/Minggu 12/Praktikum 4
+Using Asset Import Pipeline V2.
+Refreshing native plugins compatible for Editor in 87.33 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 2020.3.0f1 (c7b5465681fb)
+[Subsystems] Discovering subsystems at path C:/Program Files/Unity/Hub/Editor/2020.3.0f1/Editor/Data/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path E:/Mapel/Polinema/S6/Komputasi Multimedia/KM_2021/Project/Minggu 12/Praktikum 4/Assets
+GfxDevice: creating device client; threaded=0
+Direct3D:
+    Version:  Direct3D 11.0 [level 10.1]
+    Renderer: Intel(R) HD Graphics 3000 (ID=0x116)
+    Vendor:   
+    VRAM:     128 MB
+    Driver:   9.17.10.4459
+Initialize mono
+Mono path[0] = 'C:/Program Files/Unity/Hub/Editor/2020.3.0f1/Editor/Data/Managed'
+Mono path[1] = 'C:/Program Files/Unity/Hub/Editor/2020.3.0f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit'
+Mono config path = 'C:/Program Files/Unity/Hub/Editor/2020.3.0f1/Editor/Data/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56900
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2020.3.0f1/Editor/Data/PlaybackEngines/WebGLSupport/UnityEditor.WebGL.Extensions.dll
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2020.3.0f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.005421 seconds.
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 53.27 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  4.598 seconds
+Platform modules already initialized, skipping
+Registering precompiled user dll's ...
+Registered in 0.001430 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.41 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  2.003 seconds
+Platform modules already initialized, skipping
+========================================================================
+Worker process is ready to serve import requests
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.13 seconds
+Refreshing native plugins compatible for Editor in 0.40 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1116 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 57.3 MB.
+System memory in use after: 57.4 MB.
+
+Unloading 10 unused Assets to reduce memory usage. Loaded Objects now: 1558.
+Total: 2.911800 ms (FindLiveObjects: 0.175800 ms CreateObjectMapping: 0.070400 ms MarkObjects: 2.513900 ms  DeleteObjects: 0.149300 ms)
+
+========================================================================
+Received Import Request.
+  path: Assets/soundtrack.mp3
+  artifactKey: Guid(87001a3fcd11bb144b704102d24b42e1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/soundtrack.mp3 using Guid(87001a3fcd11bb144b704102d24b42e1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4aa12bfad7da2b314236e0d3978d1d19') in 0.224368 seconds
+  Import took 0.227906 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 2.288245 seconds.
+  path: Assets/Scenes
+  artifactKey: Guid(04384f889f0f67448ae769a05bd9b372) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes using Guid(04384f889f0f67448ae769a05bd9b372) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a1a1b68dec72530f7c805107441075a9') in 0.015411 seconds
+  Import took 0.019749 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.019322 seconds.
+  path: Assets/Scenes
+  artifactKey: Guid(04384f889f0f67448ae769a05bd9b372) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes using Guid(04384f889f0f67448ae769a05bd9b372) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a1a1b68dec72530f7c805107441075a9') in 0.005895 seconds
+  Import took 0.010408 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 72.369352 seconds.
+  path: Assets/Ducking
+  artifactKey: Guid(b5067deda0b92584888ee078f73287df) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Ducking using Guid(b5067deda0b92584888ee078f73287df) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '86b941880af6ab4ddf7ecc1d66543907') in 0.017946 seconds
+  Import took 0.023255 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.129875 seconds.
+  path: Assets/Ducking/robotDucking.mp3
+  artifactKey: Guid(0bdc1ca67230dda4f84a29183eb1f8e7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Ducking/robotDucking.mp3 using Guid(0bdc1ca67230dda4f84a29183eb1f8e7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9ae08f04b04357a4d72e4202d2390309') in 0.032468 seconds
+  Import took 0.139082 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000499 seconds.
+  path: Assets/Ducking/SkyboxAudio.mat
+  artifactKey: Guid(af789938d6187da45a22912cada76ce0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Ducking/SkyboxAudio.mat using Guid(af789938d6187da45a22912cada76ce0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '496596e086921faec9bc746505b02612') in 0.141337 seconds
+  Import took 0.144910 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000396 seconds.
+  path: Assets/Ducking/Trigger.mat
+  artifactKey: Guid(603b8af642ceafb43b40a8543c147754) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Ducking/Trigger.mat using Guid(603b8af642ceafb43b40a8543c147754) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f98beaad2d9bf3fd66142264498a09bc') in 0.780553 seconds
+  Import took 0.786913 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000506 seconds.
+  path: Assets/Ducking/Ducking.unity
+  artifactKey: Guid(e8843a2aa73f75d45a08b9bc217bc1ed) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Ducking/Ducking.unity using Guid(e8843a2aa73f75d45a08b9bc217bc1ed) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b01807be5a8cd34c4ff3df25091a0002') in 0.017762 seconds
+  Import took 0.033768 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000404 seconds.
+  path: Assets/Ducking/Signal.prefab
+  artifactKey: Guid(cb8adc05ca83f0541becc3bbd7fc6aa6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Ducking/Signal.prefab using Guid(cb8adc05ca83f0541becc3bbd7fc6aa6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4c9fbf9dea4d440dbb1eea77c4654bd7') in 3.229947 seconds
+  Import took 3.235153 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000445 seconds.
+  path: Assets/Ducking/signalSound.wav
+  artifactKey: Guid(f64e6574785f08546a9aa5760cfe6448) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Ducking/signalSound.wav using Guid(f64e6574785f08546a9aa5760cfe6448) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9c2aeb7614e21da966e89ba52b194db3') in 0.046612 seconds
+  Import took 0.052677 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000442 seconds.
+  path: Assets/Ducking/tunnel.FBX
+  artifactKey: Guid(f29af4b16eeedcf4eaefe6c69a863cbf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Ducking/tunnel.FBX using Guid(f29af4b16eeedcf4eaefe6c69a863cbf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '928a619dbf37a23bb8ebe5cc3fc4082e') in 1.515912 seconds
+  Import took 1.522034 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000374 seconds.
+  path: Assets/Ducking/signalModel.FBX
+  artifactKey: Guid(444d5fd05b458f049b6262848c620963) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Ducking/signalModel.FBX using Guid(444d5fd05b458f049b6262848c620963) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1ab68b6bfbea5b69210f3ab737206360') in 0.046943 seconds
+  Import took 0.050400 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.002444 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.82 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  2.757 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.41 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1111 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 61.3 MB.
+System memory in use after: 61.4 MB.
+
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 1607.
+Total: 2.893000 ms (FindLiveObjects: 0.196600 ms CreateObjectMapping: 0.072300 ms MarkObjects: 2.530000 ms  DeleteObjects: 0.091600 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 221.838133 seconds.
+  path: Assets/Ducking/MainMixer.mixer
+  artifactKey: Guid(c2fd0d62e57101e4bb0f7eb63c730b54) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Ducking/MainMixer.mixer using Guid(c2fd0d62e57101e4bb0f7eb63c730b54) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f248e475b53800ba4deae9f0ee6d089c') in 0.043370 seconds
+  Import took 0.049112 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 71.979940 seconds.
+  path: Assets/Ducking/MainMixer.mixer
+  artifactKey: Guid(c2fd0d62e57101e4bb0f7eb63c730b54) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Ducking/MainMixer.mixer using Guid(c2fd0d62e57101e4bb0f7eb63c730b54) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '74abea0efe73feb4412bb3ce8717dd3d') in 0.007868 seconds
+  Import took 0.012085 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.030795 seconds.
+  path: Assets/Ducking/MainMixer.mixer
+  artifactKey: Guid(c2fd0d62e57101e4bb0f7eb63c730b54) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Ducking/MainMixer.mixer using Guid(c2fd0d62e57101e4bb0f7eb63c730b54) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '74abea0efe73feb4412bb3ce8717dd3d') in 0.006806 seconds
+  Import took 0.012008 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 12.736723 seconds.
+  path: Assets/Ducking/MainMixer.mixer
+  artifactKey: Guid(c2fd0d62e57101e4bb0f7eb63c730b54) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Ducking/MainMixer.mixer using Guid(c2fd0d62e57101e4bb0f7eb63c730b54) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'eaa6eefe2f7bcaf40f0554e22075f2d8') in 0.008381 seconds
+  Import took 0.013876 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 9.266867 seconds.
+  path: Assets/Ducking/MainMixer.mixer
+  artifactKey: Guid(c2fd0d62e57101e4bb0f7eb63c730b54) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Ducking/MainMixer.mixer using Guid(c2fd0d62e57101e4bb0f7eb63c730b54) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b39f33da74ba8c236440b290510b6770') in 0.007297 seconds
+  Import took 0.014371 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.023905 seconds.
+  path: Assets/Ducking/MainMixer.mixer
+  artifactKey: Guid(c2fd0d62e57101e4bb0f7eb63c730b54) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Ducking/MainMixer.mixer using Guid(c2fd0d62e57101e4bb0f7eb63c730b54) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b39f33da74ba8c236440b290510b6770') in 0.006764 seconds
+  Import took 0.012679 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.692899 seconds.
+  path: Assets/Ducking/MainMixer.mixer
+  artifactKey: Guid(c2fd0d62e57101e4bb0f7eb63c730b54) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Ducking/MainMixer.mixer using Guid(c2fd0d62e57101e4bb0f7eb63c730b54) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00e32f60a314cf67163fe8c213940e71') in 0.006553 seconds
+  Import took 0.013778 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.018764 seconds.
+  path: Assets/Ducking/MainMixer.mixer
+  artifactKey: Guid(c2fd0d62e57101e4bb0f7eb63c730b54) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Ducking/MainMixer.mixer using Guid(c2fd0d62e57101e4bb0f7eb63c730b54) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3eae61987f2886b578a581287a55359e') in 0.005414 seconds
+  Import took 0.356648 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 5.819248 seconds.
+  path: Assets/Ducking/MainMixer.mixer
+  artifactKey: Guid(c2fd0d62e57101e4bb0f7eb63c730b54) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Ducking/MainMixer.mixer using Guid(c2fd0d62e57101e4bb0f7eb63c730b54) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '82ffb3d94896ff905288d968234084d3') in 0.005653 seconds
+  Import took 0.009192 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.032506 seconds.
+  path: Assets/Ducking/MainMixer.mixer
+  artifactKey: Guid(c2fd0d62e57101e4bb0f7eb63c730b54) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Ducking/MainMixer.mixer using Guid(c2fd0d62e57101e4bb0f7eb63c730b54) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '82ffb3d94896ff905288d968234084d3') in 0.006648 seconds
+  Import took 0.011188 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 2.708094 seconds.
+  path: Assets/Ducking/MainMixer.mixer
+  artifactKey: Guid(c2fd0d62e57101e4bb0f7eb63c730b54) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Ducking/MainMixer.mixer using Guid(c2fd0d62e57101e4bb0f7eb63c730b54) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd70e17c00014ec9d8f87a75e315ddf77') in 0.006812 seconds
+  Import took 0.013056 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 87.340893 seconds.
+  path: Assets/Ducking/MusicMixer.mixer
+  artifactKey: Guid(913a7be7525e6ed4e8b5c6e725cfe7d2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Ducking/MusicMixer.mixer using Guid(913a7be7525e6ed4e8b5c6e725cfe7d2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '99520deebc7492696362f9a104f37426') in 0.019106 seconds
+  Import took 0.025294 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 32.228586 seconds.
+  path: Assets/Ducking/FXMixer.mixer
+  artifactKey: Guid(67151feecf57f2243a6ea0425e4e7bee) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Ducking/FXMixer.mixer using Guid(67151feecf57f2243a6ea0425e4e7bee) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '67b9afb07c6a92a53e06842c5a58bf16') in 0.021392 seconds
+  Import took 0.027785 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 86.894682 seconds.
+  path: Assets/Ducking/MusicMixer.mixer
+  artifactKey: Guid(913a7be7525e6ed4e8b5c6e725cfe7d2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Ducking/MusicMixer.mixer using Guid(913a7be7525e6ed4e8b5c6e725cfe7d2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e487c4d619369ff1095cd273d2432e24') in 0.006467 seconds
+  Import took 0.011588 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.028535 seconds.
+  path: Assets/Ducking/MusicMixer.mixer
+  artifactKey: Guid(913a7be7525e6ed4e8b5c6e725cfe7d2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Ducking/MusicMixer.mixer using Guid(913a7be7525e6ed4e8b5c6e725cfe7d2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e487c4d619369ff1095cd273d2432e24') in 0.006779 seconds
+  Import took 0.012179 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 3.150023 seconds.
+  path: Assets/Ducking/MusicMixer.mixer
+  artifactKey: Guid(913a7be7525e6ed4e8b5c6e725cfe7d2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Ducking/MusicMixer.mixer using Guid(913a7be7525e6ed4e8b5c6e725cfe7d2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'aeccd15e4b224a7e3579638f5db050e0') in 0.007286 seconds
+  Import took 0.013811 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 4.003109 seconds.
+  path: Assets/Ducking/FXMixer.mixer
+  artifactKey: Guid(67151feecf57f2243a6ea0425e4e7bee) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Ducking/FXMixer.mixer using Guid(67151feecf57f2243a6ea0425e4e7bee) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '06e987ed978048599b8beec3d48e281c') in 0.005599 seconds
+  Import took 0.010488 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.026949 seconds.
+  path: Assets/Ducking/FXMixer.mixer
+  artifactKey: Guid(67151feecf57f2243a6ea0425e4e7bee) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Ducking/FXMixer.mixer using Guid(67151feecf57f2243a6ea0425e4e7bee) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '06e987ed978048599b8beec3d48e281c') in 0.007265 seconds
+  Import took 0.013376 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 4.070655 seconds.
+  path: Assets/Ducking/FXMixer.mixer
+  artifactKey: Guid(67151feecf57f2243a6ea0425e4e7bee) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Ducking/FXMixer.mixer using Guid(67151feecf57f2243a6ea0425e4e7bee) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd290d8a75e499a88d8361c61e58700c5') in 0.007123 seconds
+  Import took 0.030751 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 221.630508 seconds.
+  path: Assets/Ducking/Signal.prefab
+  artifactKey: Guid(cb8adc05ca83f0541becc3bbd7fc6aa6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Ducking/Signal.prefab using Guid(cb8adc05ca83f0541becc3bbd7fc6aa6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '25e534b2e9d1ff1501700b92e7d24796') in 0.134975 seconds
+  Import took 0.152661 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.002372 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.47 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  2.358 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.39 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1111 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 61.3 MB.
+System memory in use after: 61.4 MB.
+
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 1611.
+Total: 2.780500 ms (FindLiveObjects: 0.228700 ms CreateObjectMapping: 0.071800 ms MarkObjects: 2.379700 ms  DeleteObjects: 0.096300 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 692.588265 seconds.
+  path: Assets/Ducking/MainMixer.mixer
+  artifactKey: Guid(c2fd0d62e57101e4bb0f7eb63c730b54) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Ducking/MainMixer.mixer using Guid(c2fd0d62e57101e4bb0f7eb63c730b54) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7070a81494030b5d5f48b30d636c77a6') in 0.033214 seconds
+  Import took 0.037346 seconds .
+
+AssetImportWorkerClient::OnTransportError - code=2 error=End of file
