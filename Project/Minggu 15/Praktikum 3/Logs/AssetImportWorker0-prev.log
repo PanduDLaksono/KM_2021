@@ -1,0 +1,96 @@
+Using pre-set license
+Built from '2020.3/staging' branch; Version is '2020.3.11f1 (99c7afb366b3) revision 10078127'; Using compiler version '192528614'; Build Type 'Release'
+OS: 'Windows 10 Pro; OS build 19043.1055; Version 2009; 64bit' Language: 'en' Physical Memory: 8106 MB
+BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 0
+
+ COMMAND LINE ARGUMENTS:
+C:\Program Files\Unity\Hub\Editor\2020.3.11f1\Editor\Unity.exe
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker0
+-projectPath
+E:/Mapel/Polinema/S6/Komputasi Multimedia/KM_2021/Project/Minggu 15/Praktikum 3
+-logFile
+Logs/AssetImportWorker0.log
+-srvPort
+63492
+Successfully changed project path to: E:/Mapel/Polinema/S6/Komputasi Multimedia/KM_2021/Project/Minggu 15/Praktikum 3
+E:/Mapel/Polinema/S6/Komputasi Multimedia/KM_2021/Project/Minggu 15/Praktikum 3
+Using Asset Import Pipeline V2.
+Refreshing native plugins compatible for Editor in 67.76 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 2020.3.11f1 (99c7afb366b3)
+[Subsystems] Discovering subsystems at path C:/Program Files/Unity/Hub/Editor/2020.3.11f1/Editor/Data/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path E:/Mapel/Polinema/S6/Komputasi Multimedia/KM_2021/Project/Minggu 15/Praktikum 3/Assets
+GfxDevice: creating device client; threaded=0
+Direct3D:
+    Version:  Direct3D 11.0 [level 10.1]
+    Renderer: Intel(R) HD Graphics 3000 (ID=0x116)
+    Vendor:   
+    VRAM:     128 MB
+    Driver:   9.17.10.4459
+Initialize mono
+Mono path[0] = 'C:/Program Files/Unity/Hub/Editor/2020.3.11f1/Editor/Data/Managed'
+Mono path[1] = 'C:/Program Files/Unity/Hub/Editor/2020.3.11f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit'
+Mono config path = 'C:/Program Files/Unity/Hub/Editor/2020.3.11f1/Editor/Data/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56272
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2020.3.11f1/Editor/Data/PlaybackEngines/WebGLSupport/UnityEditor.WebGL.Extensions.dll
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2020.3.11f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.005505 seconds.
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 72.13 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  4.527 seconds
+Platform modules already initialized, skipping
+Registering precompiled user dll's ...
+Registered in 0.007757 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.60 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  2.244 seconds
+Platform modules already initialized, skipping
+========================================================================
+Worker process is ready to serve import requests
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.08 seconds
+Refreshing native plugins compatible for Editor in 0.58 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1393 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 65.2 MB.
+System memory in use after: 65.2 MB.
+
+Unloading 18 unused Assets to reduce memory usage. Loaded Objects now: 1827.
+Total: 3.490800 ms (FindLiveObjects: 0.196300 ms CreateObjectMapping: 0.084700 ms MarkObjects: 3.067800 ms  DeleteObjects: 0.139200 ms)
+
+========================================================================
+Received Import Request.
+  path: Assets/BasicController.cs
+  artifactKey: Guid(d88946f6956ec5d4d9eb5c9ca08ade76) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/BasicController.cs using Guid(d88946f6956ec5d4d9eb5c9ca08ade76) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b108622b10bd9e437dd2e60c4b4c01c3') in 0.058835 seconds
+  Import took 0.064630 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1113.756072 seconds.
+  path: Assets/RagdollCharacter.cs
+  artifactKey: Guid(75502b59638776645a439cc141e87bbe) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/RagdollCharacter.cs using Guid(75502b59638776645a439cc141e87bbe) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '78cea358b4b880be67f57a4d0e8f509a') in 0.018756 seconds
+  Import took 0.230774 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 38.777235 seconds.
+  path: Assets/mecanimPlayground.unity
+  artifactKey: Guid(dd403b659c3b8554ca213c3bf370af4d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/mecanimPlayground.unity using Guid(dd403b659c3b8554ca213c3bf370af4d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4038f3c2c5341c6ec32ebca3b3b3df32') in 0.032962 seconds
+  Import took 0.189302 seconds .
+
+AssetImportWorkerClient::OnTransportError - code=2 error=End of file
