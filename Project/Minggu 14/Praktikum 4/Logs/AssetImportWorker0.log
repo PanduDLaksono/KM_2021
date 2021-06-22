@@ -1,0 +1,335 @@
+Using pre-set license
+Built from '2020.3/staging' branch; Version is '2020.3.11f1 (99c7afb366b3) revision 10078127'; Using compiler version '192528614'; Build Type 'Release'
+OS: 'Windows 10 Pro; OS build 19043.1055; Version 2009; 64bit' Language: 'en' Physical Memory: 8106 MB
+BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 0
+
+ COMMAND LINE ARGUMENTS:
+C:\Program Files\Unity\Hub\Editor\2020.3.11f1\Editor\Unity.exe
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker0
+-projectPath
+E:/Mapel/Polinema/S6/Komputasi Multimedia/KM_2021/Project/Minggu 14/Praktikum 4
+-logFile
+Logs/AssetImportWorker0.log
+-srvPort
+56736
+Successfully changed project path to: E:/Mapel/Polinema/S6/Komputasi Multimedia/KM_2021/Project/Minggu 14/Praktikum 4
+E:/Mapel/Polinema/S6/Komputasi Multimedia/KM_2021/Project/Minggu 14/Praktikum 4
+Using Asset Import Pipeline V2.
+Refreshing native plugins compatible for Editor in 75.91 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 2020.3.11f1 (99c7afb366b3)
+[Subsystems] Discovering subsystems at path C:/Program Files/Unity/Hub/Editor/2020.3.11f1/Editor/Data/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path E:/Mapel/Polinema/S6/Komputasi Multimedia/KM_2021/Project/Minggu 14/Praktikum 4/Assets
+GfxDevice: creating device client; threaded=0
+Direct3D:
+    Version:  Direct3D 11.0 [level 10.1]
+    Renderer: Intel(R) HD Graphics 3000 (ID=0x116)
+    Vendor:   
+    VRAM:     128 MB
+    Driver:   9.17.10.4459
+Initialize mono
+Mono path[0] = 'C:/Program Files/Unity/Hub/Editor/2020.3.11f1/Editor/Data/Managed'
+Mono path[1] = 'C:/Program Files/Unity/Hub/Editor/2020.3.11f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit'
+Mono config path = 'C:/Program Files/Unity/Hub/Editor/2020.3.11f1/Editor/Data/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56644
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2020.3.11f1/Editor/Data/PlaybackEngines/WebGLSupport/UnityEditor.WebGL.Extensions.dll
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2020.3.11f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.005540 seconds.
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 70.57 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  5.012 seconds
+Platform modules already initialized, skipping
+Registering precompiled user dll's ...
+Registered in 0.008339 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.58 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  2.701 seconds
+Platform modules already initialized, skipping
+========================================================================
+Worker process is ready to serve import requests
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.11 seconds
+Refreshing native plugins compatible for Editor in 0.55 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1387 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 65.1 MB.
+System memory in use after: 65.2 MB.
+
+Unloading 19 unused Assets to reduce memory usage. Loaded Objects now: 1820.
+Total: 3.320100 ms (FindLiveObjects: 0.210900 ms CreateObjectMapping: 0.088500 ms MarkObjects: 2.862100 ms  DeleteObjects: 0.155500 ms)
+
+========================================================================
+Received Import Request.
+  path: Assets/Swat@walking.fbx
+  artifactKey: Guid(8c6151e581c67da4fbb2f802bb200a81) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Swat@walking.fbx using Guid(8c6151e581c67da4fbb2f802bb200a81) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5098d3e60070af83139f91eac446aae9') in 0.229693 seconds
+  Import took 0.246869 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000790 seconds.
+  path: Assets/MsLaser.prefab
+  artifactKey: Guid(1c14a5a274c1fa541849a1423e9b0072) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/MsLaser.prefab using Guid(1c14a5a274c1fa541849a1423e9b0072) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2ad4ed532ecbbcaa76b5975b9c993b53') in 0.789179 seconds
+  Import took 0.797882 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000465 seconds.
+  path: Assets/Swat@walking_backwards.fbx
+  artifactKey: Guid(293b98957aeb2444d8eeb0146a285be5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Swat@walking_backwards.fbx using Guid(293b98957aeb2444d8eeb0146a285be5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1b5be4df9570af0e9f47bee883a267f7') in 0.037312 seconds
+  Import took 0.045870 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000692 seconds.
+  path: Assets/Swat@strafe_left.fbx
+  artifactKey: Guid(3674f0e50389bea428792799d4601f3c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Swat@strafe_left.fbx using Guid(3674f0e50389bea428792799d4601f3c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '13be616fab5f9707f5a20d736df9fbd3') in 0.031923 seconds
+  Import took 0.042882 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000430 seconds.
+  path: Assets/BodyMask.mask
+  artifactKey: Guid(50d739cb1287cda4a893bf422aa9f01c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/BodyMask.mask using Guid(50d739cb1287cda4a893bf422aa9f01c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5abe00c2f2810cc3b474e31f27053b42') in 0.032090 seconds
+  Import took 0.041726 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000485 seconds.
+  path: Assets/MsLaser@T-Pose.fbx
+  artifactKey: Guid(6d61fc2597b0c10439ab863805701a94) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/MsLaser@T-Pose.fbx using Guid(6d61fc2597b0c10439ab863805701a94) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '06d4d2dec2932e2c3d9b00d5fa5bb047') in 0.970592 seconds
+  Import took 0.980497 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000451 seconds.
+  path: Assets/Swat@run_backwards.fbx
+  artifactKey: Guid(279bb0ba476a0bd4c99bdcfd111248e2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Swat@run_backwards.fbx using Guid(279bb0ba476a0bd4c99bdcfd111248e2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b6ec366b2e5532e76fc50d42665373b1') in 0.051248 seconds
+  Import took 0.057778 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000585 seconds.
+  path: Assets/Swat@toss_grenade.fbx
+  artifactKey: Guid(310f15964d257fa40a1857a85eee9a76) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Swat@toss_grenade.fbx using Guid(310f15964d257fa40a1857a85eee9a76) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '85adfc4d68789a7f62e8394c71d2322b') in 0.037432 seconds
+  Import took 0.044989 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000390 seconds.
+  path: Assets/Swat@firing_rifle.fbx
+  artifactKey: Guid(e4b047a9c5a02be40a2a1f594bf21bdd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Swat@firing_rifle.fbx using Guid(e4b047a9c5a02be40a2a1f594bf21bdd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5e72d39aab8e71f0ad71c9016e497d06') in 0.040136 seconds
+  Import took 0.051900 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000408 seconds.
+  path: Assets/Swat@rifle_run.fbx
+  artifactKey: Guid(641bb81d6077ff044b87a3e2aed1b0e5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Swat@rifle_run.fbx using Guid(641bb81d6077ff044b87a3e2aed1b0e5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a641cda91867eee39ef4c213a4a28916') in 0.044646 seconds
+  Import took 0.064381 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000453 seconds.
+  path: Assets/Swat@strafe.fbx
+  artifactKey: Guid(205196b6962d984438ca027a77b6b23e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Swat@strafe.fbx using Guid(205196b6962d984438ca027a77b6b23e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a090305fe412cc9ca35d7559a26a6346') in 0.042479 seconds
+  Import took 0.051507 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000371 seconds.
+  path: Assets/Swat@strafe_right.fbx
+  artifactKey: Guid(6f0161b54bbf88c44929898cf7fdb126) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Swat@strafe_right.fbx using Guid(6f0161b54bbf88c44929898cf7fdb126) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '226efd580aa91f0f978c51b94a0e436a') in 0.032868 seconds
+  Import took 0.039365 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000407 seconds.
+  path: Assets/Swat@rifle_aiming_idle.fbx
+  artifactKey: Guid(7f72964001205b944ab9f314a704489b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Swat@rifle_aiming_idle.fbx using Guid(7f72964001205b944ab9f314a704489b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bb1ee3f8ebfd9aaea2325af1b860b680') in 0.028676 seconds
+  Import took 0.034687 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000469 seconds.
+  path: Assets/Swat@strafe_2.fbx
+  artifactKey: Guid(1d0b72c9279176441aef2f141bc8a5f8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Swat@strafe_2.fbx using Guid(1d0b72c9279176441aef2f141bc8a5f8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b437c1b4fc9d942d9bbca0f26341fddd') in 0.028071 seconds
+  Import took 0.037092 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.209414 seconds.
+  path: Assets/mecanimPlayground.unity
+  artifactKey: Guid(dd403b659c3b8554ca213c3bf370af4d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/mecanimPlayground.unity using Guid(dd403b659c3b8554ca213c3bf370af4d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f33c9ceca02b854004e0da51afe4a56f') in 0.015529 seconds
+  Import took 0.021049 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.026128 seconds.
+  path: Assets/mecanimPlayground.unity
+  artifactKey: Guid(dd403b659c3b8554ca213c3bf370af4d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/mecanimPlayground.unity using Guid(dd403b659c3b8554ca213c3bf370af4d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f33c9ceca02b854004e0da51afe4a56f') in 0.008992 seconds
+  Import took 0.016255 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.013927 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.66 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  2.710 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.77 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1382 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 69.3 MB.
+System memory in use after: 69.4 MB.
+
+Unloading 14 unused Assets to reduce memory usage. Loaded Objects now: 1835.
+Total: 3.727200 ms (FindLiveObjects: 0.203200 ms CreateObjectMapping: 0.085100 ms MarkObjects: 3.315000 ms  DeleteObjects: 0.121300 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 60.910370 seconds.
+  path: Assets/Swat@turn_left.fbx
+  artifactKey: Guid(74f5f8a624efb544aaf30f4c87342206) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Swat@turn_left.fbx using Guid(74f5f8a624efb544aaf30f4c87342206) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '609ab61d746c95eafc298a2c1815ecf1') in 0.067730 seconds
+  Import took 0.072773 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000433 seconds.
+  path: Assets/Swat@turning_right_45_degrees.fbx
+  artifactKey: Guid(c54d315b10e5d5e4e960e496812dfd2d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Swat@turning_right_45_degrees.fbx using Guid(c54d315b10e5d5e4e960e496812dfd2d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0ccc9f6e41ed40d4a5e415a0e1b246d8') in 0.026613 seconds
+  Import took 0.464371 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 60.537265 seconds.
+  path: Assets/Swat@turn_left.fbx
+  artifactKey: Guid(74f5f8a624efb544aaf30f4c87342206) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Swat@turn_left.fbx using Guid(74f5f8a624efb544aaf30f4c87342206) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd4fb6d7e103ab276e4b7843d54e50b6d') in 0.026186 seconds
+  Import took 0.190111 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 73.700448 seconds.
+  path: Assets/Swat@turn_left.fbx
+  artifactKey: Guid(74f5f8a624efb544aaf30f4c87342206) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Swat@turn_left.fbx using Guid(74f5f8a624efb544aaf30f4c87342206) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '33d1ffcd4a708f45717cd548f11e8ea3') in 0.022555 seconds
+  Import took 0.096605 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 76.965344 seconds.
+  path: Assets/Swat@turning_right_45_degrees.fbx
+  artifactKey: Guid(c54d315b10e5d5e4e960e496812dfd2d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Swat@turning_right_45_degrees.fbx using Guid(c54d315b10e5d5e4e960e496812dfd2d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4275781686f6148e4337021250d9c2e8') in 0.020490 seconds
+  Import took 0.028658 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 17.874886 seconds.
+  path: Assets/Swat@turning_right_45_degrees.fbx
+  artifactKey: Guid(c54d315b10e5d5e4e960e496812dfd2d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Swat@turning_right_45_degrees.fbx using Guid(c54d315b10e5d5e4e960e496812dfd2d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'db2dd44fa9e884f27b910c25f22b7ffe') in 0.031792 seconds
+  Import took 0.050963 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 12.527746 seconds.
+  path: Assets/MainCharacter.controller
+  artifactKey: Guid(f733304d84cddb04388f30591bc2eb84) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/MainCharacter.controller using Guid(f733304d84cddb04388f30591bc2eb84) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e31008d7a4aa437814f929565703d32a') in 0.057370 seconds
+  Import took 0.064986 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 689.419046 seconds.
+  path: Assets/BasicController.cs
+  artifactKey: Guid(d88946f6956ec5d4d9eb5c9ca08ade76) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/BasicController.cs using Guid(d88946f6956ec5d4d9eb5c9ca08ade76) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ad91bcdfaf7e876dfb6852952d64e539') in 0.020380 seconds
+  Import took 0.123828 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.277139 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.59 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  2.179 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.57 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1382 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 69.4 MB.
+System memory in use after: 69.5 MB.
+
+Unloading 14 unused Assets to reduce memory usage. Loaded Objects now: 1838.
+Total: 3.154500 ms (FindLiveObjects: 0.220900 ms CreateObjectMapping: 0.086000 ms MarkObjects: 2.739600 ms  DeleteObjects: 0.105800 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 316.340741 seconds.
+  path: Assets/BasicController.cs
+  artifactKey: Guid(d88946f6956ec5d4d9eb5c9ca08ade76) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/BasicController.cs using Guid(d88946f6956ec5d4d9eb5c9ca08ade76) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b108622b10bd9e437dd2e60c4b4c01c3') in 0.008479 seconds
+  Import took 0.042490 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.011337 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.61 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  2.276 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.68 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1382 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 69.4 MB.
+System memory in use after: 69.5 MB.
+
+Unloading 14 unused Assets to reduce memory usage. Loaded Objects now: 1841.
+Total: 6.967400 ms (FindLiveObjects: 0.584400 ms CreateObjectMapping: 0.178000 ms MarkObjects: 6.069500 ms  DeleteObjects: 0.130400 ms)
+
+AssetImportWorkerClient::OnTransportError - code=2 error=End of file
